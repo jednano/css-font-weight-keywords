@@ -1,0 +1,25 @@
+{
+  "name": "css-font-weights",
+  "version": "1.0.0",
+  "description": "List of CSS font weights.",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedmao/css-font-weights.git"
+  },
+  "keywords": [
+    "css",
+    "font",
+    "weight",
+    "weights"
+  ],
+  "author": "Jed Mao <jedmao@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jedmao/css-font-weights/issues"
+  },
+  "homepage": "https://github.com/jedmao/css-font-weights#readme"
+}
