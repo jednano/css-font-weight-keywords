@@ -1,4 +1,4 @@
-# css-font-weights
+# css-font-weight-keywords
 
 List of CSS [font weights](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight):
 - normal
@@ -10,14 +10,14 @@ List of CSS [font weights](https://developer.mozilla.org/en-US/docs/Web/CSS/font
 ## Installation
 
 ```
-npm install css-font-weights [--save[-dev]]
+npm install css-font-weight-keywords [--save[-dev]]
 ```
 
 ## Usage
 
 ```js
-var cssFontWeights = require('css-font-weights');
-cssFontWeights; /*
+var fontWeightKeywords = require('css-font-weight-keywords');
+fontWeightKeywords; /*
 [
 	"normal",
 	"bold",
